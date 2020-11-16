@@ -1,0 +1,24 @@
+{
+  "name": "JobSearcher",
+  "version": "1.0.0",
+  "description": "Job Search Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinforhan/JobSearcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinforhan/JobSearcher/issues"
+  },
+  "homepage": "https://github.com/kevinforhan/JobSearcher#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0"
+  }
+}
